@@ -1,3 +1,4 @@
+//ora 01:43 maine la 08:00 am PCLP ghici cine nu se duce HIHI
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
